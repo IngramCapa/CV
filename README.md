@@ -25,6 +25,7 @@ University of Bucharest, Romania - BA in International Relations and Political S
 #### Any other qualifications
 
 Birkbeck, University of London, London - JavaScript course (Jan - March 2019)
+
 QA - Microsoft Dynamics 365 Configuration and Customisation (June 2018)
 
 ## Experience
