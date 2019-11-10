@@ -4,10 +4,10 @@ I’m a developer with a year and a half of experience, about to embark on an ex
 
 ## Skills
 
-JavaScript
-HTML & CSS
-Databases, SQL, defining data schemas and managing data migration
-Microsoft Dynamics CRM (on-premises and 365)
+- JavaScript
+- HTML & CSS
+- Databases, SQL, defining data schemas and managing data migration
+- Microsoft Dynamics CRM (on-premises and 365)
 
 ## Education
 
