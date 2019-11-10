@@ -1,55 +1,49 @@
-## Your Name
+## Raluca Ciucu
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+I’m a developer with a year and a half of experience, about to embark on an exciting journey at Makers Academy. I am an active, independent self-learner, having taught myself SQL and taken a JavaScript, HTML & CSS course in my spare time. I find working in tech exciting because innovation, creativity and a focus on user experience are a point of pride, and I want to keep building my career on the same principles.
 
 ## Skills
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-
-#### This Skill
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+JavaScript
+HTML & CSS
+Databases, SQL, defining data schemas and managing data migration
+Microsoft Dynamics CRM (on-premises and 365)
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (Oct 2019 to Jan 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Your University / College (2006 to 2009)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+University of Bucharest, Romania - BA in International Relations and Political Science
 
 #### Any other qualifications
 
-That in some arguable way make you a better software developer or well-rounded person
+Birkbeck, University of London, London - JavaScript course (Jan - March 2019)
+QA - Microsoft Dynamics 365 Configuration and Customisation (June 2018)
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-- Any experience relevent to software development
+**Dogs Trust** (Jan 2018 to Oct 2019)    
+*Systems Development Trainee*  
+- Worked on data model redesign, rebuilt existing functionality and delivered 
+  initial stage of data migration of Dynamics CRM 2016 to Dynamics 365 on cloud.
+- Customisation of existing Dynamics CRM 2016 system (version 8.1), including 
+  extending existing entities, building new forms, business rules, form scripting, workflow and views.
+- Took over a project delivering integration of a 3rd-party online service with our internal database, 
+  which replaced a paper voucher scheme for partner veterinary practices. 
 
-**Company Name** (start_date to end_date)   
-*Your job title*  
-- Any experience relevent to software development
+**Dogs Trust** (June 2016 to Dec 2017)   
+*Recruitment Officer*  
+- Implemented an applicant tracking system, streamlining the recruitment experience 
+  for internal and external stakeholders. Planned, coordinated and oversaw all recruitment 
+  activity (300 positions per year) across 75 UK locations.
 
-## Hobbies
+## Languages
 
-Any cool stuff that makes you a super part of a software development team
+English, French, Romanian, Polish, Spanish
