@@ -16,12 +16,26 @@ I am an enthusiastic Full-Stack Junior Software Developer with a career spanning
 
 ## Skills
 
-### Adaptable team player, engaging consistently with partners of all levels
+### Self starter
 
-Working in agile, multi-disciplinary teams during my time in both HR and IT, proved invaluable during group projects at Makers, due to the diversity of my cohort. I was able to 
+### Adaptable team player
 
-I have extensive experience working in international teams, using multiple languages in public-facing roles, and managing and training people. 
- 
+Working in agile, multi-disciplinary teams during my time in both HR and IT, proved invaluable during group projects at Makers, due to the diversity of backgrounds in my cohort. This allowed me to contribute to delivering Minimum Viable Products (MVPs) under the guidance of a simulated product owner over 2-day sprints, focusing on using agile methodologies in a team context; I was also scrum master and documented the coding journey. 
+
+### Capacity to plan, negotiate and prioritize effectively within appropriate timeframes
+
+Whilst pursuing the intensive course at Makers Academy, I drew heavily on my experience as a Software Development Trainee at Dogs Trust, where I delivered projects in Microsoft Dynamics CRM, Dynamics 365 on-cloud and developed solid foundations in SQL and database management; among them the integration of a third party service which replaced a paper voucher scheme for partner vet practices and migrating database functionality to the cloud, in line with GDPR practices. 
+
+As a Recruitment Officer, I was part of a year-long working group that lead to the successful implementation of a third party bespoke recruitment system. As the most tech-savvy person in the team, I acted as liaison, translating requirements and communicating them to the tech team. The project's result was an increase response rates to candidates, it eliminated incomplete applications and led to faster selection times - crucial improvements when dealing with hundreds of applications on a weekly basis. 
+
+### Leadership and people management
+
+### Adept communicator, engaging consistently with stakeholders of all levels
+I have extensive experience working in international teams, using multiple languages in public-facing roles
+
+
+and managing and training people. 
+my previous experience as an hr person where i had to be inclusive in my communication in people-facing roles
 
 
 ## Experience
