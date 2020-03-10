@@ -1,7 +1,7 @@
 # Raluca - Elena Ciucu
 ---
 
-[Projects](#projects) | [Skills](#skills) | [Work Experience](#experience) | [Education](#education) | [Interests](#interests)
+[Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 I am an enthusiastic Full-Stack Junior Software Developer with a career spanning four countries, working in tech for two years. Being and active, independent self-learner, Makers was the natural choice of bootcamp for me to continue my journey. The most exciting thing for me in this industry is how innovation, creativity and a focus on user experience are points of pride. I am looking to bring my tech and soft skills into a supportive, agile environment, where I can keep building my career on the same principles and contribute to meaningful projects.
 
@@ -24,7 +24,7 @@ I have extensive experience working in international teams, using multiple langu
  
 
 
-## Work Experience
+## Experience
 
 **Dogs Trust** -
 *Systems Development Trainee* 
