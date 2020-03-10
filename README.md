@@ -3,7 +3,7 @@
 [Projects](#projects) | [Skills](#skills) | [Experience](#experience) | [Education](#education) | [Interests](#interests)
 
 ---
-I am an enthusiastic Full-Stack Junior Software Developer with a career spanning four countries, working in tech for two years. Being and active, independent self-learner, Makers was the natural choice of bootcamp for me to continue my journey. The most exciting thing for me in this industry is how innovation, creativity and a focus on user experience are points of pride. I am looking to bring my tech and soft skills into a supportive, agile environment, where I can keep building my career on the same principles and contribute to meaningful projects.
+I am an enthusiastic Full-Stack Junior Software Developer with a career spanning four countries, working in tech for two years. Being an active, independent self-learner, Makers was the natural choice of bootcamp for me to continue my coding journey. The most exciting thing for me in this industry is how innovation, creativity and a focus on user experience are points of pride. I am looking to bring my tech and soft skills into a supportive, agile environment, where I can keep building my career on the same principles and contribute to meaningful projects.
 
  ---
  ## Projects
@@ -18,9 +18,11 @@ I am an enthusiastic Full-Stack Junior Software Developer with a career spanning
 
 ### Self starter
 
-### Adaptable team player
 
-Working in agile, multi-disciplinary teams during my time in both HR and IT, proved invaluable during group projects at Makers, due to the diversity of backgrounds in my cohort. This allowed me to contribute to delivering Minimum Viable Products (MVPs) under the guidance of a simulated product owner over 2-day sprints, focusing on using agile methodologies in a team context; I was also scrum master and documented the coding journey. 
+
+### Adaptable team player, engaging consistently with stakeholders of all levels
+
+Working in agile, multi-disciplinary teams during my time in both HR and IT, proved invaluable during group projects at Makers, due to the diversity of backgrounds in my cohort. I also have extensive HR experience working in international teams, where I had to be inclusive in my communication in people-facing roles.  This allowed me to contribute to delivering Minimum Viable Products (MVPs) under the guidance of a simulated product owner over 2-day sprints, focusing on using agile methodologies in a team context; I was also scrum master and documented the coding journey. 
 
 ### Capacity to plan, negotiate and prioritize effectively within appropriate timeframes
 
@@ -30,12 +32,8 @@ As a Recruitment Officer, I was part of a year-long working group that lead to t
 
 ### Leadership and people management
 
-### Adept communicator, engaging consistently with stakeholders of all levels
-I have extensive experience working in international teams, using multiple languages in public-facing roles
-
-
-and managing and training people. 
-my previous experience as an hr person where i had to be inclusive in my communication in people-facing roles
+Before discovering my passion for coding, I was a Recruitment Officer for Dogs Trust, advising and supporting
+managers in over 75 locations across the UK and Northern Ireland on all recruitment-related matters. During my tenure, I acted as interim team leader, managing a team of two, and led on the recruitment of approximately 300 hires per year. 
 
 
 ## Experience
