@@ -26,7 +26,7 @@ I have extensive experience working in international teams, using multiple langu
 
 ## Experience
 
-**Dogs Trust** -
+**Dogs Trust, London** -
 *Systems Development Trainee* 
 (Jan 2018 to Oct 2019)    
   
@@ -37,7 +37,7 @@ I have extensive experience working in international teams, using multiple langu
 - Tested solutions against deliverables  before deployment to production.
 
 
-**Dogs Trust** -
+**Dogs Trust, London** -
 *Recruitment Officer* 
 (June 2016 to Dec 2017)   
  
