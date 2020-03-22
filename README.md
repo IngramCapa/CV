@@ -16,8 +16,6 @@ I am an enthusiastic Full-Stack Junior Software Developer with a career spanning
 
 ## Skills
 
-### Self starter
-
 ### Adaptable team player, engaging consistently with stakeholders of all levels
 
 Working in agile, multi-disciplinary teams during my time in both HR and IT, proved invaluable during group projects at Makers, due to the diversity of backgrounds in my cohort. I also have extensive HR experience working in international teams, where I had to be inclusive in my communication in people-facing roles.  This allowed me to contribute to delivering Minimum Viable Products (MVPs) under the guidance of a simulated product owner over 2-day sprints, focusing on using agile methodologies in a team context; I was also scrum master and documented the coding journey. 
