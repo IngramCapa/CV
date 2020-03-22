@@ -98,7 +98,7 @@ QA - Microsoft Dynamics 365 Configuration and Customisation (June 2018)
 
 #### University
 
-University of Bucharest, Romania - BA in International Relations and Political Science
+University of Bucharest, Romania - BA in International Relations and Political Science (June 2009)
 
 ## Languages
 
